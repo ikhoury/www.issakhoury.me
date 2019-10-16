@@ -17,7 +17,7 @@ Amsterdam, the Netherlands
 - Infrastructure-as-Code to automate environment provisioning and configuration using Terraform and Ansible.
 - Worked in a multi-cultural organization.
 - Worked in cross-functional teams.
-- Manage and monitor work using JIRA.
+- Manage and monitor tasks using JIRA.
 
 ### Smarty Systems / Zalka, Lebanon
 *February 2017 – August 2018*
