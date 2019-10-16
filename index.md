@@ -27,7 +27,7 @@ Graduated from Notre Dame University, Lebanon.
 - Designed a service that ingests social media statistics and store them in a data warehouse. We used Apache Kudu as our datastore. Other solutions were tested such as Apache Druid and Vertica. APIs where exposed to query and aggregate statistics across dimensions.
 - Designed a service for streaming live news to the user based on custom filters.
 - Designed a service for ingesting social profiles and interests and creating an actor graph using Neo4j. APIs where exposed to discover patterns and relationships from the graph.
-- Realtime online processing of statistics data to calculate metrics such as trend and feed it to a backend machine learning API for online prediction. The real time processing was done using VoltDB, a fast in-memory RDBMS.
+- Realtime online processing of statistics to calculate metrics such as trend that feed to a machine learning API for online prediction. The real time processing was done using VoltDB, a fast in-memory RDBMS.
 - Maintain these set of microservices based on Spring Boot and the Spring Cloud stack. Embracing techniques such as service discovery using Hashicorp Consul.
 - Work in cross-functional teams. The feature would span backend (data storage and query API) and front end (integration with API). Therefore, API contracts had to be established before-hand and well documented.
 
