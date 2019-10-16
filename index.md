@@ -1,6 +1,6 @@
 # Issa Khoury | Software Engineer
-**Amsterdam, the Netherlands | +31 6 2879 8488 | i_kh@icloud.com
-**
+**Amsterdam, the Netherlands | +31 6 2879 8488 | i_kh@icloud.com**
+
 ## About me
 I am a hard-working Software Engineer dedicated to my work and always ready to learn and improve myself. I focus on developing distributed services that are performant, efficient, resilient, and maintainable. These services need to handle data at a very large scale; therefore, I pay big attention to designing solutions that can process, store, and query data efficiently.
 I believe in agile cross-functional teams that can work together throughout the delivery pipeline and constantly push out value to the customer while maintaining a high level of quality.
