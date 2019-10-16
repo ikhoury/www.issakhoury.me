@@ -59,3 +59,5 @@ Graduated from Notre Dame University, Lebanon.
 
 ## Contact
 +31 6 2879 8488 | i_kh@icloud.com
+
+[Download Resume](resume.pdf)
