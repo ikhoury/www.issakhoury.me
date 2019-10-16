@@ -1,4 +1,3 @@
-# Issa Khoury | Software Engineer
 **Amsterdam, the Netherlands | +31 6 2879 8488 | i_kh@icloud.com**
 
 ## About me
