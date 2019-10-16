@@ -24,12 +24,12 @@ Graduated from Notre Dame University, Lebanon.
 ### Smarty Systems / Zalka, Lebanon
 *February 2017 – August 2018*
 -	Designed a service that ingests an online stream of news document and store them in Elastic Search. APIs where exposed to search for documents. I was heavily engaged in search optimization to find similar news articles relevant to user queries.
--	Designed a service that ingests social media statistics and store them in a data warehouse. The stack was based on CDH hence we used Apache Kudu as our data store. Other solutions were tested such as Apache Druid and Vertica. APIs where exposed to query and aggregate statistics for charts and reports.
+-	-	Designed a service that ingests social media statistics and store them in a data warehouse. We used Apache Kudu as our datastore. Other solutions were tested such as Apache Druid and Vertica. APIs where exposed to query and aggregate statistics across dimensions.
 -	Designed a service for streaming live news to the user based on custom filters.
 -	Designed a service for ingesting social profiles and interests and creating an actor graph using Neo4j. APIs where exposed to discover patterns and relationships from the graph.
+- Realtime online processing of statistics data to calculate metrics such as trend and feed it to a backend machine learning API for online prediction. The real time processing was done using VoltDB, a fast in-memory RDBMS.
 -	Maintain these set of microservices based on Spring Boot and the Spring Cloud stack. Embracing techniques such as service discovery using Hashicorp Consul.
 -	Work in cross-functional teams. The feature would span backend (data storage and query API) and front end (integration with API). Therefore, API contracts had to be established before-hand and well documented.
--	Realtime online processing of statistics data to calculate metrics such as trend and feed it to a backend machine learning API for online prediction. The real time processing was done using VoltDB, a fast in-memory RDBMS.
 
 ### Space Builders / Beirut, Lebanon
 *May 2015 – May 2016*
@@ -43,7 +43,7 @@ Graduated from Notre Dame University, Lebanon.
 - Polyglot persistence across different storage types.
 - Messaging systems and event-based communication.
 - Data warehousing and analytics.
-- DevOps mindset, strive for TDD and CI/CD.
+- DevOps mindset. Strive for TDD and CI/CD.
 - Process management using Lean methodologies.
 - OLTP datastores (MySQL, PostgreSQL, VoltDB…).
 - OLAP datastores (Vertica, Druid, Kudu…).
