@@ -5,10 +5,8 @@ I believe in agile cross-functional teams that can work together throughout the 
 #### Location
 Amsterdam, the Netherlands
 
-## Education
-
-### B.S in Computer Science / June 2017
-Graduated from Notre Dame University, Lebanon.
+#### Contact
++31 6 2879 8488 | i_kh@icloud.com
 
 ## Experience
 
@@ -49,6 +47,11 @@ Graduated from Notre Dame University, Lebanon.
 - OLAP datastores (Vertica, Druid, Kudu…).
 - NoSQL datastores (ELK stack, Neo4j, Redis, Cassandra…).
 
+## Education
+
+### B.S in Computer Science / June 2017
+Graduated from Notre Dame University, Lebanon.
+
 ## Languages
 - Arabic (Native Proficiency)
 - English (Professional Proficiency)
@@ -56,8 +59,5 @@ Graduated from Notre Dame University, Lebanon.
 
 ## Certificates
 - Chief Market Technician (CMT Level 1 & 2)
-
-## Contact
-+31 6 2879 8488 | i_kh@icloud.com
 
 [Download Resume](resume.pdf)
