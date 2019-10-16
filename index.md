@@ -17,7 +17,7 @@ Graduated from Notre Dame University, Lebanon.
 - Developed a Java based service that processes huge volumes of data from AWS Kinesis and routes them to external data partners through their public APIs. The service must be efficient and scalable to easily absorb spikes in traffic, while being resilient to external errors and gracefully resume normal operation.
 - Augmented an existing Java based service to store statistics in AWS RDS and added the needed endpoints to query the data for charts and reports.
 - Infrastructure-as-Code to automate environment provisioning and configuration using Terraform and Ansible.
-- Worked in a multi-culture organization and collaborate across teams.
+- Worked in a multi-cultural organization.
 - Worked in cross-functional teams.
 - Manage and monitor work using JIRA.
 
