@@ -55,4 +55,4 @@ Graduated from Notre Dame University, Lebanon.
 -	Chief Market Technician (CMT Level 1 & 2)
 
 ## Contact
-**Amsterdam, the Netherlands | +31 6 2879 8488 | i_kh@icloud.com**
++31 6 2879 8488 | i_kh@icloud.com
