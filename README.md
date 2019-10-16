@@ -1,1 +1,1 @@
-# Issa Khoury's resume
+Issa Khoury's resume accessible at issakhoury.me
