@@ -6,7 +6,12 @@ I believe in agile cross-functional teams that can work together throughout the 
 Amsterdam, the Netherlands
 
 #### Contact
-+31 6 2879 8488 | +961 71 702 791 | i_kh@icloud.com
+##### Mobile 
++31 6 2879 8488 | +961 71 702 791
+##### Email 
+i_kh@icloud.com
+##### LinkedIn
+linkedin.com/in/issakhoury
 
 ## Experience
 
