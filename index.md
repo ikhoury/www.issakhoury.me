@@ -36,16 +36,16 @@ Amsterdam, the Netherlands
 - Created advanced Excel sheets and Access databases for generating reports
 
 ## Summary of tech stack and skills:
-- Develop high quality and resilient distributed services.
+- Develop high performant, maintainable, and resilient distributed services.
 - Java and the Spring framework.
-- Polyglot persistence across different storage types.
+- Polyglot persistence across different storage mediums.
 - Messaging systems and event-based communication.
 - Data warehousing and analytics.
 - DevOps mindset. Strive for TDD and CI/CD.
-- Process management using Lean methodologies.
 - OLTP datastores (MySQL, PostgreSQL, VoltDB…).
 - OLAP datastores (Vertica, Druid, Kudu…).
 - NoSQL datastores (ELK stack, Neo4j, Redis, Cassandra…).
+- Process management using Lean methodologies.
 
 ## Education
 
