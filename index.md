@@ -36,7 +36,7 @@ Amsterdam, the Netherlands
 - Created advanced Excel sheets and Access databases for generating reports
 
 ## Summary of tech stack and skills:
-- Develop high performant, maintainable, and resilient distributed services.
+- Develop highly performant, maintainable, and resilient distributed services.
 - Java and the Spring framework.
 - Polyglot persistence across different storage mediums.
 - Messaging systems and event-based communication.
