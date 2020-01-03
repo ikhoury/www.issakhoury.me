@@ -15,8 +15,12 @@ linkedin.com/in/issakhoury
 
 ## Experience
 
+### Anchormen / Amsterdam, the Netherlands
+*January 2020 - Present*
+- Software and data engineering consultant.
+
 ### Relay42 / Amsterdam, the Netherlands
-*October 2018 - Present*
+*October 2018 - December 2019*
 - Developed a Java based service that processes huge volumes of data from AWS Kinesis and routes them to external data partners through their public APIs. The service must be efficient and scalable to easily absorb spikes in traffic, while being resilient to external errors and gracefully resume normal operation.
 - Augmented an existing Java based service to store aggregated statistics in AWS RDS and added the needed endpoints to query the data for charts and reports.
 - Infrastructure-as-Code to automate environment provisioning and configuration using Terraform and Ansible.
