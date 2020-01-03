@@ -38,12 +38,6 @@ linkedin.com/in/issakhoury
 - Maintain these set of microservices based on Spring Boot and the Spring Cloud stack. Embracing techniques such as service discovery using Hashicorp Consul.
 - Work in cross-functional teams. The feature would span backend (data storage and query API) and front end (integration with API). Therefore, API contracts had to be established before-hand and well documented.
 
-### Space Builders / Beirut, Lebanon
-*May 2015 – May 2016*
-- Windows Server Essentials setup for collaboration across the office.
-- Network set up for remote access
-- Created advanced Excel sheets and Access databases for generating reports
-
 ## Summary of tech stack and skills:
 - Develop highly performant, maintainable, and resilient distributed services.
 - Java and the Spring framework.
