@@ -17,10 +17,17 @@ linkedin.com/in/issakhoury
 
 ### Anchormen / Amsterdam, the Netherlands
 *January 2020 - Present*
-- Software and data engineering consultant.
+
+Anchormen is a data-driven company which delivers services in consultancy, training and support in Machine Learning, Data Science, and Artificial Intelligence. Notable projects include:
+
+- KPN IoT:
+Developed an API Gateway that fronts all KPN IoT APIs. The gateway acts as the entry point to the IoT services and enforces security at the perimeter using TLS termination and user authentication. The authentication and authorization framework are based on the OpenID connect standard.
+In addition, I introduced the concept of Zero Downtime Deployments. I helped the team to improve the software delivery pipeline in order to shorten the release cycle. I also introduced best practices for safely evolving a running service in order to preserve backwards compatibility and provide an easy rollback path. 
+
 
 ### Relay42 / Amsterdam, the Netherlands
 *October 2018 - December 2019*
+
 - Developed a Java based service that processes huge volumes of data from AWS Kinesis and routes them to external data partners through their public APIs. The service must be efficient and scalable to easily absorb spikes in traffic, while being resilient to external errors and gracefully resume normal operation.
 - Augmented an existing Java based service to store aggregated statistics in AWS RDS and added the needed endpoints to query the data for charts and reports.
 - Infrastructure-as-Code to automate environment provisioning and configuration using Terraform and Ansible.
@@ -30,6 +37,7 @@ linkedin.com/in/issakhoury
 
 ### Smarty Systems / Zalka, Lebanon
 *February 2017 – August 2018*
+
 - Designed a service that ingests an online stream of news document and store them in Elastic Search. APIs where exposed to search for documents. I was heavily engaged in search optimization to find similar news articles relevant to user queries.
 - Designed a service that ingests social media statistics and store them in a data warehouse. We used Apache Kudu as our datastore. Other solutions were tested such as Apache Druid and Vertica. APIs where exposed to query and aggregate statistics across dimensions.
 - Designed a service for streaming live news to the user based on custom filters.
@@ -39,10 +47,11 @@ linkedin.com/in/issakhoury
 - Work in cross-functional teams. The feature would span backend (data storage and query API) and front end (integration with API). Therefore, API contracts had to be established before-hand and well documented.
 
 ## Summary of tech stack and skills:
+
 - Develop highly performant, maintainable, and resilient distributed services.
 - Java and the Spring framework.
 - Polyglot persistence across different storage mediums.
-- Messaging systems and event-based communication.
+- Asynchronous  systems and event-based communication.
 - Data warehousing and analytics.
 - DevOps mindset. Strive for TDD and CI/CD.
 - OLTP datastores (MySQL, PostgreSQL, VoltDB…).
@@ -60,8 +69,7 @@ Graduated from Notre Dame University, Lebanon.
 - English (Professional Proficiency)
 - French (Limited Working Proficiency)
 
-## Certificates
-- Chief Market Technician (CMT Level 1 & 2)
+## Certification
 - [Amazon Web Services Solutions Architect Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-03-21&ci=AWS01250693)
 
 [Download Resume](resume.pdf)
