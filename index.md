@@ -62,5 +62,6 @@ Graduated from Notre Dame University, Lebanon.
 
 ## Certificates
 - Chief Market Technician (CMT Level 1 & 2)
+- [Amazon Web Services Solutions Architect Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-03-21&ci=AWS01250693)
 
 [Download Resume](resume.pdf)
