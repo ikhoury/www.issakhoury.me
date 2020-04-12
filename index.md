@@ -46,9 +46,9 @@ In addition, I introduced the concept of Zero Downtime Deployments. I helped the
 - Maintain these set of microservices based on Spring Boot and the Spring Cloud stack. Embracing techniques such as service discovery using Hashicorp Consul.
 - Work in cross-functional teams. The feature would span backend (data storage and query API) and front end (integration with API). Therefore, API contracts had to be established before-hand and well documented.
 
-## Summary of tech stack and skills:
+## Summary of tech stack and skills
 
-- Develop highly performant, maintainable, and resilient distributed services.
+- Develop secure, reliable, performant, cost effective, cloud native services.
 - Java and the Spring framework.
 - Polyglot persistence across different storage mediums.
 - Asynchronous  systems and event-based communication.
