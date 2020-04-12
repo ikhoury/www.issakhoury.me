@@ -7,7 +7,7 @@ Amsterdam, the Netherlands
 
 #### Contact
 ##### Mobile 
-+31 6 2879 8488 | +961 71 702 791
++31 6 2879 8488
 ##### Email 
 i_kh@icloud.com
 ##### LinkedIn
