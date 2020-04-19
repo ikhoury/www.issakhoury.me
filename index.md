@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About me
 I am a hard-working and dedicated Software Engineer that is always ready to learn and improve my skills. I focus on developing distributed services that are performant, efficient, resilient, and maintainable. These services need to handle data at a very large scale; therefore, I pay big attention to designing solutions that can process, store, and query data efficiently.
 I believe in agile cross-functional teams that can work together throughout the delivery pipeline and constantly push out value to the customer while maintaining a high level of quality.
@@ -72,4 +76,4 @@ Graduated from Notre Dame University, Lebanon.
 ## Certification
 - [Amazon Web Services Solutions Architect Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-03-21&ci=AWS01250693)
 
-[Download Resume](resume.pdf)
+[Download Resume](assets/resume.pdf)
