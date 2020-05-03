@@ -74,6 +74,6 @@ Graduated from Notre Dame University, Lebanon.
 - French (Limited Working Proficiency)
 
 ## Certification
-- [Amazon Web Services Solutions Architect Associate](https://www.certmetrics.com/amazon/public/badge.aspx?i=1&t=c&d=2020-03-21&ci=AWS01250693)
+- [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/48790cf7-1d40-4c76-996f-1e87ac612503/public_url)
 
 [Download Resume](assets/resume.pdf)
