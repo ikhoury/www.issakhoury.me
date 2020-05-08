@@ -3,19 +3,13 @@ layout: default
 ---
 
 ## About me
+
+{% include badge.html %}
+
 I am a hard-working and dedicated Software Engineer that is always ready to learn and improve my skills. I focus on developing distributed services that are performant, efficient, resilient, and maintainable. These services need to handle data at a very large scale; therefore, I pay big attention to designing solutions that can process, store, and query data efficiently.
 I believe in agile cross-functional teams that can work together throughout the delivery pipeline and constantly push out value to the customer while maintaining a high level of quality.
 
-#### Location
-Amsterdam, the Netherlands
-
-#### Contact
-##### Mobile 
-+31 6 2879 8488
-##### Email 
-i_kh@icloud.com
-##### LinkedIn
-linkedin.com/in/issakhoury
+You can contact me directly by [email](mailto:i_kh@icloud.com?subject=[Resume]%20Getting%20in%20touch).
 
 ## Experience
 
