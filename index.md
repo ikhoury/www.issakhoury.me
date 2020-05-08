@@ -46,7 +46,7 @@ In addition, I introduced the concept of Zero Downtime Deployments. I helped the
 
 ## Education
 
-### B.S in Computer Science / June 2017
+### B.S in Computer Science - June 2017
 
 Graduated from Notre Dame University, Lebanon.
 
