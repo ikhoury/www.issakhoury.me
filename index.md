@@ -1,20 +1,22 @@
 ---
 layout: default
 ---
-
-## About me
+# Profile
 
 {% include badge.html %}
 
-I am a hard-working and dedicated Software Engineer that is always ready to learn and improve my skills. I focus on developing distributed services that are performant, efficient, resilient, and maintainable. These services need to handle data at a very large scale; therefore, I pay big attention to designing solutions that can process, store, and query data efficiently.
+## About me
+
+I am a hard-working and dedicated Software Engineer that is always ready to learn and improve his skills. I focus on desiging distributed services that are performant, efficient, resilient, and maintainable. These services need to handle data at a very large scale; therefore, I pay big attention to designing solutions that can process, store, and query data efficiently.
 I believe in agile cross-functional teams that can work together throughout the delivery pipeline and constantly push out value to the customer while maintaining a high level of quality.
 
 You can contact me directly by [email](mailto:i_kh@icloud.com?subject=[Resume]%20Getting%20in%20touch).
 
+![wordcloud](assets/wordcloud.png)
+
 ## Experience
 
-### Anchormen / Amsterdam, the Netherlands
-*January 2020 - Present*
+### Anchormen / Amsterdam, the Netherlands - January 2020 - Present
 
 Anchormen is a data-driven company which delivers services in consultancy, training and support in Machine Learning, Data Science, and Artificial Intelligence. Notable projects include:
 
@@ -23,8 +25,7 @@ Developed an API Gateway that fronts all KPN IoT APIs. The gateway acts as the e
 In addition, I introduced the concept of Zero Downtime Deployments. I helped the team to improve the software delivery pipeline in order to shorten the release cycle. I also introduced best practices for safely evolving a running service in order to preserve backwards compatibility and provide an easy rollback path. 
 
 
-### Relay42 / Amsterdam, the Netherlands
-*October 2018 - December 2019*
+### Relay42 / Amsterdam, the Netherlands - October 2018 - December 2019
 
 - Developed a Java based service that processes huge volumes of data from AWS Kinesis and routes them to external data partners through their public APIs. The service must be efficient and scalable to easily absorb spikes in traffic, while being resilient to external errors and gracefully resume normal operation.
 - Augmented an existing Java based service to store aggregated statistics in AWS RDS and added the needed endpoints to query the data for charts and reports.
@@ -33,8 +34,7 @@ In addition, I introduced the concept of Zero Downtime Deployments. I helped the
 - Worked in cross-functional teams.
 - Manage and monitor tasks using JIRA.
 
-### Smarty Systems / Zalka, Lebanon
-*February 2017 – August 2018*
+### Smarty Systems / Zalka, Lebanon - February 2017 – August 2018
 
 - Designed a service that ingests an online stream of news document and store them in Elastic Search. APIs where exposed to search for documents. I was heavily engaged in search optimization to find similar news articles relevant to user queries.
 - Designed a service that ingests social media statistics and store them in a data warehouse. We used Apache Kudu as our datastore. Other solutions were tested such as Apache Druid and Vertica. APIs where exposed to query and aggregate statistics across dimensions.
@@ -44,30 +44,20 @@ In addition, I introduced the concept of Zero Downtime Deployments. I helped the
 - Maintain these set of microservices based on Spring Boot and the Spring Cloud stack. Embracing techniques such as service discovery using Hashicorp Consul.
 - Work in cross-functional teams. The feature would span backend (data storage and query API) and front end (integration with API). Therefore, API contracts had to be established before-hand and well documented.
 
-## Summary of tech stack and skills
-
-- Develop secure, reliable, performant, cost effective, cloud native services.
-- Java and the Spring framework.
-- Polyglot persistence across different storage mediums.
-- Asynchronous  systems and event-based communication.
-- Data warehousing and analytics.
-- DevOps mindset. Strive for TDD and CI/CD.
-- OLTP datastores (MySQL, PostgreSQL, VoltDB…).
-- OLAP datastores (Vertica, Druid, Kudu…).
-- NoSQL datastores (ELK stack, Neo4j, Redis, Cassandra…).
-- Process management using Lean methodologies.
-
 ## Education
 
 ### B.S in Computer Science / June 2017
+
 Graduated from Notre Dame University, Lebanon.
 
 ## Languages
+
 - Arabic (Native Proficiency)
 - English (Professional Proficiency)
 - French (Limited Working Proficiency)
 
 ## Certification
+
 - [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/48790cf7-1d40-4c76-996f-1e87ac612503/public_url)
 
 [Download Resume](assets/resume.pdf)

@@ -1,0 +1,31 @@
+26 Cloud Native Architectures
+20 Java
+20 Spring
+15 AWS
+15 Azure
+12 Distributed Services
+12 Distributed Data
+12 Polyglot Persistence
+12 Event Driven
+12 Asynchronous
+12 Rest API
+9 OLTP
+9 OLAP
+9 NoSQL
+9 Agile
+9 Lean Methodoligies
+9 DevOps
+7 Continuous Delivery
+7 Stream processing
+7 Cassandra
+7 Redis
+7 Neo4j
+7 Vertica
+7 VoltDB
+7 Druid
+7 Kudu
+6 MySQL
+6 PostgresSQL
+6 Test Driven Development
+6 Data Warehousing
+6 Data Analytics
