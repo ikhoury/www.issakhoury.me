@@ -60,4 +60,4 @@ Graduated from Notre Dame University, Lebanon.
 
 - [AWS Certified Solutions Architect – Associate](https://www.youracclaim.com/badges/48790cf7-1d40-4c76-996f-1e87ac612503/public_url)
 
-[Download Resume](assets/resume.pdf)
+[Download Resume](assets/issa_khoury_resume.pdf)
