@@ -20,7 +20,11 @@ You can contact me directly by [email](mailto:i_kh@icloud.com?subject=[Resume]%2
 
 Anchormen is a data-driven company which delivers services in consultancy, training and support in Machine Learning, Data Science, and Artificial Intelligence. Notable projects include:
 
-- KPN IoT:
+- Reckitt Benckiser Dynamic Forecast
+I designed and implemented a system architecture for a 3-tier application on the Azure cloud. The application consists of a frontend SPA, a backend API, and an Azure SQL database.
+The infrastructure was developed first using ARM templates, but it was later migrated to Terraform.
+
+- KPN IoT
 Developed an API Gateway that fronts all KPN IoT APIs. The gateway acts as the entry point to the IoT services and enforces security at the perimeter using TLS termination and user authentication. The authentication and authorization framework are based on the OpenID connect standard.
 In addition, I introduced the concept of Zero Downtime Deployments. I helped the team to improve the software delivery pipeline in order to shorten the release cycle. I also introduced best practices for safely evolving a running service in order to preserve backwards compatibility and provide an easy rollback path. 
 
