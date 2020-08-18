@@ -16,6 +16,8 @@ Therefore, I believe in cross-functional agile teams that can work together in a
 
 You can contact me directly by [email](mailto:i_kh@icloud.com?subject=[Resume]%20Getting%20in%20touch).
 
+Feel free to read my [blog](https://blog.issakhoury.me).
+
 ![wordcloud](assets/wordcloud.png)
 
 ## Experience
