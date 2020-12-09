@@ -7,16 +7,16 @@ layout: default
 
 ## About me
 
-I am a hard-working and dedicated Software Engineer with a focus on delivering high quality solutions that make the required impact.
+I am a hard-working and experienced Software Engineer and Cloud Architect with a focus on delivering high quality, efficient, and reliable solutions that help make the right impact.
 
-My main interest is in the development of distributed services that help in extracting value out of business data. Very often they need to handle data at a very large scale; therefore it is critical to design software that can process, store and query data efficiently using different storage technologies.
+My main interest is in the development of cloud native services that help in extracting value out of business data or automating a business process. Very often they need to handle data at a very large scale; therefore it is critical to design software that can process, store and query data efficiently using the right storage technology.
 
-My priority in any software project is delivering features to the customer that help him make the impacts he needs as soon as possible. I advocate for incremental delivery of value along with continuous evaluation and improvement of the product.
-Therefore, I believe in cross-functional agile teams that can work together in an end to end delivery process in order to constantly push out value to the customer while maintaining a high level of software quality.
+My priority in any software project is delivering features to the customer that help him make the impacts he needs as soon as possible. I strive to implement a workflow for incremental delivery of value along with continuous evaluation and improvement of the product.
+Therefore, I believe in cross-functional agile teams working together in an end-to-end delivery process and constantly pushing out value to the customer while adheering to good software design and development practices.
 
-You can contact me directly by [email](mailto:i_kh@icloud.com?subject=[Resume]%20Getting%20in%20touch).
+Feel free to contact me directly by [email](mailto:i_kh@icloud.com?subject=[Resume]%20Getting%20in%20touch).
 
-Feel free to read my [blog](https://blog.issakhoury.me).
+You might find something interesting in my [blog](https://blog.issakhoury.me).
 
 ![wordcloud](assets/wordcloud.png)
 
