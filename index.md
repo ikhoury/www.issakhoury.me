@@ -7,12 +7,9 @@ layout: default
 
 ## About me
 
-I am a hard-working and experienced Software Engineer and Cloud Architect with a focus on delivering high quality, efficient, and reliable solutions that help make the right impact.
+I am a hard-working and experienced Software Engineer and Cloud Architect with a focus on delivering high quality, efficient, and reliable solutions that help make the right impact. My main interest is in the development of cloud native services that help in extracting value out of business data or automating a business process.
 
-My main interest is in the development of cloud native services that help in extracting value out of business data or automating a business process. Very often they need to handle data at a very large scale; therefore it is critical to design software that can process, store and query data efficiently using the right storage technology.
-
-My priority in any software project is delivering features to the customer that help him make the impacts he needs as soon as possible. I strive to implement a workflow for incremental delivery of value along with continuous evaluation and improvement of the product.
-Therefore, I believe in cross-functional agile teams working together in an end-to-end delivery process and constantly pushing out value to the customer while adheering to good software design and development practices.
+My priority in any software project is delivering features to the customer that help him make the impacts he needs as soon as possible. I strive to implement a workflow for incremental delivery of value along with continuous evaluation and improvement of the product. Therefore, I believe in cross-functional agile teams working together in an end-to-end delivery process and constantly pushing out value while adheering to good software development practices.
 
 Feel free to contact me directly by [email](mailto:i_kh@icloud.com?subject=[Resume]%20Getting%20in%20touch).
 
