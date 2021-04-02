@@ -49,7 +49,7 @@ Graduated from Notre Dame University, Lebanon.
 - Arabic (Native Proficiency)
 - English (Professional Proficiency)
 - French (Limited Working Proficiency)
-- Dutcb (Elementary Proficiency)
+- Dutch (Elementary Proficiency)
 
 ## Certification
 
