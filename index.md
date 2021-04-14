@@ -56,5 +56,6 @@ Graduated from Notre Dame University, Lebanon.
 {% include aws_solutions_architect_associate.html %}
 {% include aws_sysops_associate.html %}
 {% include aws_developer_associate.html %}
+{% include aws_networking_specialty.html %}
 
 [View Full Resume](assets/issa_khoury_resume.pdf)
