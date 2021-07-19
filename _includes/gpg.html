@@ -1,65 +1,77 @@
 <html lang="en">
-<head>
-  <title>Bootstrap Example</title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-</head>
-<body>
+  <head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link
+      rel="stylesheet"
+      href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+    />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  </head>
+  <body>
+    <div class="container">
+      <!-- Trigger the modal with a button -->
+      <button
+        type="button"
+        class="btn btn-info btn-lg"
+        data-toggle="modal"
+        data-target="#myModal"
+      >
+        GPG Public Key
+      </button>
 
-<div class="container">
-  <!-- Trigger the modal with a button -->
-  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">GPG Public Key</button>
-
-  <!-- Modal -->
-  <div class="modal fade" id="myModal" role="dialog">
-    <div class="modal-dialog">
-    
-      <!-- Modal content-->
-      <div class="modal-content">
-        <div class="modal-header">
-          <button type="button" class="close" data-dismiss="modal">&times;</button>
-          <h4 class="modal-title">Public Key</h4>
-        </div>
-        <div class="modal-body">
-          <p>
-            -----BEGIN PGP PUBLIC KEY BLOCK-----
-          <br>
-            mDMEYPXe1BYJKwYBBAHaRw8BAQdASVBdhYjjRUVuBEv0Rkr7uPrlkGP8Acg8EEPv
-          <br>
-            3+AybEe0Lklzc2EgQWxraG91cnkgKFBlcnNvbmFsIEtleSkgPGlfa2hAaWNsb3Vk
-        <br>
-            LmNvbT6IlAQTFgoAPBYhBFMgVv1BzzRbCUrboDArE0SQ4BiEBQJg9d7UAhsDBQsJ
-      <br>
-            CAcCAyICAQYVCgkICwIEFgIDAQIeBwIXgAAKCRAwKxNEkOAYhAwvAP90ILyHi4Vg
-    <br>
-            3PZig6wpN1ayR8bDiqxRrPMV5eVq6dKmUQD+KUMy0UyduMBIjQtIALu8E80ZZB+q
-  <br>
-            fbIRMp6RfU0ISga4OARg9d7UEgorBgEEAZdVAQUBAQdArjzzhZBBo6JEFso9T/F6
-<br>
-            GC39yxoKsXKNfhG6GL5ZY38DAQgHiHgEGBYKACAWIQRTIFb9Qc80WwlK26AwKxNE
-<br>
-            kOAYhAUCYPXe1AIbDAAKCRAwKxNEkOAYhPWsAQC1v8cXpulYswp4r9wjDYqoh33G
-<br>
-            5OTR9omtrq+cUZjeRwEA4FQAazrsDZluwVzlmzbdWZ6DeM5OSdX6RQwupIVGiw0=
-<br>
-            =ti1x
-<br>
-            -----END PGP PUBLIC KEY BLOCK-----
-                        </p>
-        </div>
-        <div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      <!-- Modal -->
+      <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog">
+          <!-- Modal content-->
+          <div class="modal-content">
+            <div class="modal-header">
+              <button type="button" class="close" data-dismiss="modal">
+                &times;
+              </button>
+              <h4 class="modal-title">Public Key</h4>
+            </div>
+            <div class="modal-body">
+              <p>
+                -----BEGIN PGP PUBLIC KEY BLOCK-----
+                <br />
+                mDMEYPXe1BYJKwYBBAHaRw8BAQdASVBdhYjjRUVuBEv0Rkr7uPrlkGP8Acg8EEPv
+                <br />
+                3+AybEe0Lklzc2EgQWxraG91cnkgKFBlcnNvbmFsIEtleSkgPGlfa2hAaWNsb3Vk
+                <br />
+                LmNvbT6IlAQTFgoAPBYhBFMgVv1BzzRbCUrboDArE0SQ4BiEBQJg9d7UAhsDBQsJ
+                <br />
+                CAcCAyICAQYVCgkICwIEFgIDAQIeBwIXgAAKCRAwKxNEkOAYhAwvAP90ILyHi4Vg
+                <br />
+                3PZig6wpN1ayR8bDiqxRrPMV5eVq6dKmUQD+KUMy0UyduMBIjQtIALu8E80ZZB+q
+                <br />
+                fbIRMp6RfU0ISga4OARg9d7UEgorBgEEAZdVAQUBAQdArjzzhZBBo6JEFso9T/F6
+                <br />
+                GC39yxoKsXKNfhG6GL5ZY38DAQgHiHgEGBYKACAWIQRTIFb9Qc80WwlK26AwKxNE
+                <br />
+                kOAYhAUCYPXe1AIbDAAKCRAwKxNEkOAYhPWsAQC1v8cXpulYswp4r9wjDYqoh33G
+                <br />
+                5OTR9omtrq+cUZjeRwEA4FQAazrsDZluwVzlmzbdWZ6DeM5OSdX6RQwupIVGiw0=
+                <br />
+                =ti1x
+                <br />
+                -----END PGP PUBLIC KEY BLOCK-----
+              </p>
+            </div>
+            <div class="modal-footer">
+              <button
+                type="button"
+                class="btn btn-default"
+                data-dismiss="modal"
+              >
+                Close
+              </button>
+            </div>
+          </div>
         </div>
       </div>
-      
     </div>
-  </div>
-  
-</div>
-
-</body>
+  </body>
 </html>
-
