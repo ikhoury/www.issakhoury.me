@@ -17,6 +17,8 @@ You might find something interesting in my [blog](https://blog.issakhoury.me).
 
 ![wordcloud](assets/wordcloud.png)
 
+{% include gpg.html %}
+
 ## Experience
 
 ### Anchormen / Amsterdam, the Netherlands - January 2020 - Present
