@@ -21,7 +21,11 @@ You might find something interesting in my [blog](https://blog.issakhoury.me).
 
 ## Experience
 
-### Anchormen / Amsterdam, the Netherlands - January 2020 - Present
+### ThoughtWorks / Amsterdam, the Netherlands - May 2022 - Present
+
+ThoughtWorks is a leading technology consultancy that has recently expanded to the Netherlands. I have joined the growing team as a Solution Architect to help design and develop modern and effective solutions in order to help our clients achieve their digital transformation and data driven goals.
+
+### Anchormen / Amsterdam, the Netherlands - January 2020 - August 2022
 
 Anchormen is a data-driven company which delivers services in consultancy, training and support in Machine Learning, Data Science, and Artificial Intelligence.
 
