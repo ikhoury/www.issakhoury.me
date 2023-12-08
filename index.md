@@ -7,9 +7,9 @@ layout: default
 
 ## About me
 
-I am a hard-working and experienced Software Engineer and Cloud Architect focused on delivering high quality, efficient, and reliable solutions that help make the right impact. My main interest is in the development of cloud native services that help in extracting value out of business data or automating a business process.
+I am a passionate Software Engineer and Cloud Architect focused on delivering high quality, efficient, and reliable solutions that aim to deliver on value. I find interest in designing cloud native services that help in extracting value out of business data or automating a business process.
 
-My priority in any software project is delivering features to the customer that help him make the impacts he needs as soon as possible. I strive to implement a workflow for incremental delivery of value along with continuous evaluation and improvement of the product. Therefore, I believe in cross-functional agile teams working together in an end-to-end delivery process and constantly pushing out value while adhering to good software development practices.
+My priority in any software project is delivering features to the customer that help them make the right decisions and impact in their organistion. I strive to implement a workflow for incremental delivery of value along with continuous evaluation and improvement of the product. I also believe in cross-functional agile teams that work together in an end-to-end process to constantly deliver value while adhering to good software development practices.
 
 Feel free to contact me directly by [email](mailto:hello@issakhoury.me?subject=[Resume]%20Getting%20in%20touch).
 
@@ -23,7 +23,7 @@ You might find something interesting in my [blog](https://blog.issakhoury.me).
 
 ### ThoughtWorks / Amsterdam, the Netherlands - May 2022 - Present
 
-ThoughtWorks is a leading technology consultancy that has recently expanded to the Netherlands. I have joined the growing team as a Solution Architect to help design and develop modern and effective solutions in order to help our clients achieve their digital transformation and data driven goals.
+ThoughtWorks is a leading technology consultancy that has recently expanded to the Netherlands. I have joined the growing team as a Solution Architect to help design and develop modern and effective software systems in order to help our clients achieve their digital transformation and data driven goals.
 
 ### Anchormen / Amsterdam, the Netherlands - January 2020 - August 2022
 
